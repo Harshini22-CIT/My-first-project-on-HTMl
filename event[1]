@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        
+        <link rel="icon" href="img/date.png">
+    </head>
+
+    <body bgcolor="pink" style="color : purple" >
+        <center>
+         <h1>Upcoming events 📅</h1>
+         <p>Don't miss any of your upcoming events. Here are the important events you have registered for!</p>
+         <hr>
+        </center>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, expedita, dolorum velit suscipit, magnam illum placeat deserunt porro non voluptatibus saepe consectetur. Ullam dolores omnis nam consequuntur dolore nostrum voluptates quisquam enim illo ipsa fuga laborum nesciunt praesentium, quasi rerum dolor impedit explicabo soluta facere suscipit corrupti. Vero, ullam maiores! Fugiat suscipit dicta facere! Quasi facere fugiat blanditiis a laborum fugit ullam suscipit libero, sapiente pariatur dolores architecto qui iusto? Asperiores dolorem quia magnam saepe. Totam ex, deserunt optio provident ipsam nemo voluptatum illo in repellendus alias tempore. Illum quisquam sunt odit voluptas, nihil quae! Praesentium quis quas eaque culpa. 
+        </p>
+        <center>
+            
+            <img src="img/event1.png">
+            <h1>Photo Gallery Event</h1>
+            <h2>Free Entry | Free Food | Pets are Not Allowed</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit cum soluta ducimus officia praesentium maxime quae id quo minima, porro ipsum culpa, reiciendis magnam! Fugiat repellat quia voluptatum provident iusto vel necessitatibus quis temporibus quo adipisci. Deserunt ipsum tempora mollitia provident unde. Blanditiis quibusdam architecto quod modi eligendi repellendus ducimus.</p>
+        </center>
+        
+        <center>
+            
+            <img src="img/event2.png">
+            <br>
+            <a href="https://myntra.com/">Fashion look</a>
+            <h2>Free Entry | Free Food | Pets are Not Allowed</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Totam sapiente eligendi labore optio, odio ad animi? Id, ipsum? Odio, quasi neque nobis ipsam, mollitia, animi amet suscipit maiores illum ducimus quisquam eius laboriosam iure dolorum enim ad voluptatum consequatur architecto aut veritatis. Vero odit quidem ullam blanditiis molestiae necessitatibus dolores.</p>
+        </center>
+
+        <hr>
+        
+        <center>
+            <h1>Contact</h1>
+            <h2>+91 8467413569 | abc@gmail.com </h2>
+            <p>9th street Avenue Park, Trichy, 625620</p>
+        </center>
+    </body>
+</html>
